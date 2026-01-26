@@ -23,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
+- [Amir Mahdi Barati](https://github.com/Amir-Mahdi-Barati)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
